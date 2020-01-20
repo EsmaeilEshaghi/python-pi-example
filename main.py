@@ -7,6 +7,10 @@ for i in range(10):
     #I am running a test
 
     print (i)
+<<<<<<< HEAD
 
 print ('Github it is me')
 
+=======
+print ('Oh my God,,, W was wrong")
+>>>>>>> v01
