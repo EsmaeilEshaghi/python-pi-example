@@ -7,3 +7,4 @@ for i in range(10):
 #I am running a test
 
     print (i)
+print ('Oh my God,,, W was wrong")
